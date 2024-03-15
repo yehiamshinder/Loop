@@ -46,7 +46,6 @@ enum LoopConstants {
     
     
     // Compile time configuration
-   
     static let retrospectiveCorrectionEnabled = true
     
     // Percentage of recommended dose to apply as bolus when using automatic bolus dosing strategy
